@@ -14,7 +14,7 @@ This resource brings the uniforms and clothing items of the EUP mod into AltV so
    ```
 
 2. copy the folder to your AltV server directory under `resources/`.
-Make sure that the resource is added to your `server.cfg`:
+Make sure that the resource is added to your `server.toml`:
 
 
    ```text
