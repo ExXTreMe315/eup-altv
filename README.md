@@ -38,7 +38,7 @@ Das bedeutet:
 - Sie dürfen den Code und die Inhalte teilen und bearbeiten, jedoch nur zu nicht-kommerziellen Zwecken.
 - Änderungen müssen unter derselben Lizenz veröffentlicht werden.
 - Eine Namensnennung ist erforderlich.
-- 
+
 **Hinweis:** Der ursprüngliche Mod "Emergency Uniforms Pack - Law & Order" unterliegt den Nutzungsbedingungen und Copyright-Vorgaben des Erstellers. Bitte respektieren Sie diese Bedingungen.
 
 ## Credits
